@@ -1,8 +1,8 @@
 {
   "name": "gatsby-starter-strata",
-  "description": "Gatsby Starter - Strata by HTML5 UP",
+  "description": "Gatsby Starter",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Shipra Narang",
   "dependencies": {
     "gatsby": "^1.9.235",
     "gatsby-link": "^1.6.39",
