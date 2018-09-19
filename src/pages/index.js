@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'gatsby-link'
 import get from 'lodash/get'
 import Helmet from 'react-helmet'
-import main from '../assets/images/main.png'
+import main from '../assets/images/bg.jpg'
 
 // import Lightbox from 'react-images'
 import Gallery from '../components/Gallery'
@@ -91,7 +91,7 @@ class HomeIndex extends React.Component {
 
                     <section id="one">
                         <header className="major">
-                            <h2 style={{fontSize:40,marginTop:`-30`, fontFamily:'Stencil'}}>IMAGE GALLERY</h2>
+                         <h2 style={{fontSize:40,marginTop:`-30`, fontFamily:'Andalus'}}>IMAGE GALLERY</h2>
                         </header>
                        
                        
